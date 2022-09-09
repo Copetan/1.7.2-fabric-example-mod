@@ -13,6 +13,6 @@ public class TitleScreenMixin
             constant = @Constant(stringValue = "Minecraft 1.7.2")
     )
     private static String replaceString(String string) {
-        return string + " (Fabric Modded)";
+        return string + " (Ornithe Modded)";
     }
 }
