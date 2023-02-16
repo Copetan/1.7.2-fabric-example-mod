@@ -15,7 +15,7 @@ repositories {
 
 dependencies {
     minecraft "com.mojang:minecraft:${project.minecraft_version}"
-    mappings "net.ornithemc:feather:${project.feather_mappings}:v2"
+    mappings "net.ornithemc:feather-old:${project.feather_mappings}:v2"
     modImplementation "net.ornithemc:ornithe-loader:${project.loader_version}"
 
     implementation 'org.lwjgl.lwjgl:lwjgl_util:2.9.0'
