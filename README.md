@@ -1,3 +1,7 @@
+## THIS TEMPLATE IS OUTDATED!
+
+Check out the new template [here](https://github.com/OrnitheMC/ornithe-template-mod).
+
 # Ornithe Example Mod
 
 ## Setup
